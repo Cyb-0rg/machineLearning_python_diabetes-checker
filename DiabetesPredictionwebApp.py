@@ -32,9 +32,8 @@ def diabetes_prediction(input_data):
   
 def main():
     
-    
     # giving a title
-    st.title('13Diabetes Prediction App')
+    st.title('Diabetes Prediction App')
     
     
     
